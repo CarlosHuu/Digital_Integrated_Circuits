@@ -1,2 +1,2 @@
-# Digital_Integrated_Circuits
-113 autumn
+# EEIE30090
+### Digital_Integrated_Circuits
