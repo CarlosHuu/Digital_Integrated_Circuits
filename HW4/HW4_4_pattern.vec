@@ -1,0 +1,12 @@
+RADIX  1111 1111 1 
+VNAME  in_a[3:0] in_b[3:0] cin_in
+IO     iiii iiii i
+tunit  ns
+slope 0.02
+tdelay 0.0
+vih    0.8
+vil    0
+
+
+0       0000 1111 0
+0.18	0000 1111 1

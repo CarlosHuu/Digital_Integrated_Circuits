@@ -1,0 +1,17 @@
+RADIX  1 1 1  
+VNAME  a b cin
+IO     i i i
+tunit  ns
+slope 0.02
+tdelay 0.0
+vih    0.8
+vil    0
+
+0 0 0 0
+2 0 0 1
+4 0 1 0
+6 0 1 1
+8 1 0 0
+10 1 0 1
+12 1 1 0
+14 1 1 1
